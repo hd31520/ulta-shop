@@ -4,7 +4,7 @@ import React from 'react';
 
 const ProductList = () => {
     return (
-        <div className='mt-12  flex gap-x-8 justify-between flex-wrap'>
+        <div className='mt-12  flex gap-x-8 gap-y-3 justify-between flex-wrap'>
             <Link href="/test" className=' flex flex-col gap-4 gap-y-6 w-[45%] md:w-[30%] lg:w-[22%]'>
                 <div className='relative w-full h-80'>
                     <Image
