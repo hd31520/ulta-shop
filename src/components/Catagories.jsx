@@ -46,7 +46,7 @@ const Catagories = () => {
                     <div className="relative bg-slate-100 w-full h-96">
                         <Image src="https://i.ibb.co/09qWwfN/Razer-Death-Adder.jpg" fill alt='' sizes='20vh' className='object-cover'></Image>
                     </div>
-                    <h1 className='mt-8 font-light text-xl tracking-wide'>Category Name</h1>
+                   
                 </Link>
             </div>
 
