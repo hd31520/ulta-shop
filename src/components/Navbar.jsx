@@ -12,7 +12,7 @@ const Navbar = () => {
             <div className='h-full flex items-center justify-between md:hidden'>
                 <Link href="/">
                     <div className='text-2xl tracing-wide '>
-                        TERA SHOP
+                       ULTA SHOP
                     </div>
                 </Link>
                 <Menu></Menu>
@@ -25,7 +25,7 @@ const Navbar = () => {
 
                         <div className='text-2xl tracing-wide flex items-center gap-3'>
                             <Image src="/logo.png" alt="" width={24} height={24} />
-                            TERA SHOP
+                            ULTA SHOP
                         </div>
                     </Link>
                     <div className="hidden xl:flex gap-4">
